@@ -1,0 +1,23 @@
+.container
+{
+width: 400px;
+height: 400px;
+background-color: lightgray;
+margin: 0 auto;
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+}
+.red
+{background-color: red;}
+
+.green
+{background-color: green;}
+
+.blue
+{background-color: blue;}
+
+.orange
+{background-color: orange;}
